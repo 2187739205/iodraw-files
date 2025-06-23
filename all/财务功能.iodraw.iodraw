@@ -19,7 +19,7 @@
         <mxCell id="eh1lFxQPC0usbiXKppLU-8" value="商家成本" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eh1lFxQPC0usbiXKppLU-9" value="商户总工资" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eh1lFxQPC0usbiXKppLU-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
