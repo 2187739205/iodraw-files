@@ -70,8 +70,8 @@
         <mxCell id="LvKT1-6IV0--dHwLiatt-6" value="评价（公开）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LvKT1-6IV0--dHwLiatt-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="LvKT1-6IV0--dHwLiatt-7" value="星级评分" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
