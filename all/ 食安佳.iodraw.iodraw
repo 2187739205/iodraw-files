@@ -333,8 +333,11 @@
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-50" value="AI根据你本日摄入食物进行分析并给出建议" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="713.76" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ZWvzMkq_fcaTGg2btZn-61" target="Mvkhrwdvp7kNJv5P67GJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-61" value="家长" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="870" width="40" height="40" as="geometry" />
+          <mxGeometry x="-335" y="920" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
