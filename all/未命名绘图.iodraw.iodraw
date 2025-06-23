@@ -46,19 +46,19 @@
           <mxGeometry x="440" y="400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-13" value="商贩" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="400" width="40" height="40" as="geometry" />
+          <mxGeometry x="-360" y="400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-14" value="学生" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-80" y="400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-15" value="点餐" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="-120" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-16" value="评价" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="-80" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-17" value="投诉" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="-40" y="480" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
