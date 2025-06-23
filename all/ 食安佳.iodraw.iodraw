@@ -269,9 +269,6 @@
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-4" value="点餐" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-280" y="400" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1ZWvzMkq_fcaTGg2btZn-5" value="评价" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="600" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-6" value="投诉" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-40" y="600" width="40" height="40" as="geometry" />
         </mxCell>
