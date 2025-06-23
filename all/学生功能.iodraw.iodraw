@@ -16,6 +16,9 @@
         <mxCell id="_CD9x-zmH7CE157U7nmr-1" value="菜品介绍&lt;div&gt;（课选是否添加图片）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="_CD9x-zmH7CE157U7nmr-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
