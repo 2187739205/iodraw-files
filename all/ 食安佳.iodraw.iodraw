@@ -211,7 +211,7 @@
         <mxCell id="B4V9LgvyUTULpbr_GXXk-3" value="人员名单" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-680" y="640" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pnKAW2MTkiycT-ZMdgsl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="B4V9LgvyUTULpbr_GXXk-4" target="Iaa7MuNyZsSsIzKxsuXt-4">
+        <mxCell id="pnKAW2MTkiycT-ZMdgsl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="B4V9LgvyUTULpbr_GXXk-4" target="Iaa7MuNyZsSsIzKxsuXt-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B4V9LgvyUTULpbr_GXXk-4" value="薪资" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
