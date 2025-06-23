@@ -49,9 +49,6 @@
         <mxCell id="T3ctY_h0ZlKOY7f0YbfM-6" value="菜品分类&lt;div&gt;（减脂/增肌）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="707" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uesmumoy8UQeXtptO5wu-2" value="前台" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="-160" width="260" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Uesmumoy8UQeXtptO5wu-3" value="人员管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-600" y="-160" width="200" height="80" as="geometry" />
         </mxCell>
