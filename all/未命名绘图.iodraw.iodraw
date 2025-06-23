@@ -97,6 +97,9 @@
         <mxCell id="0r8-MAXX3s_39sxS0DT3-33" value="月租金" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0r8-MAXX3s_39sxS0DT3-35" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
