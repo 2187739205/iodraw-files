@@ -117,6 +117,9 @@
         <mxCell id="9efKHBe-v60knRHaDVvN-29" value="工资" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="280" y="600" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9efKHBe-v60knRHaDVvN-30" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
