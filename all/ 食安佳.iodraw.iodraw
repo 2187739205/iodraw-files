@@ -128,7 +128,7 @@
           <mxGeometry x="320" y="786.24" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-42" value="库存管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="786.24" width="40" height="40" as="geometry" />
+          <mxGeometry x="560" y="800" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-53" value="仓库设施管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="786.24" width="40" height="40" as="geometry" />
