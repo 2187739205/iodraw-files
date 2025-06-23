@@ -80,7 +80,7 @@
           <mxGeometry x="600" y="840" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-28" value="运营时间(商铺可自行设置)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="920" width="40" height="40" as="geometry" />
+          <mxGeometry x="440" y="880" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
