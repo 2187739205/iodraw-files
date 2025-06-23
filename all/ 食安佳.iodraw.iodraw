@@ -8,7 +8,7 @@
           <mxGeometry y="40" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-4" value="前台" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="360" width="80" height="80" as="geometry" />
+          <mxGeometry x="-280" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-6" value="后台" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="280" width="80" height="80" as="geometry" />
@@ -205,7 +205,7 @@
         <mxCell id="B4V9LgvyUTULpbr_GXXk-4" value="薪资" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-600" y="640" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fqjHEcJAeRLv1TJEI3iC-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fqjHEcJAeRLv1TJEI3iC-1" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-840" y="360" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
