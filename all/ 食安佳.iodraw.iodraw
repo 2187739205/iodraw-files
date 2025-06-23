@@ -115,11 +115,20 @@
         <mxCell id="9efKHBe-v60knRHaDVvN-24" value="财务" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="440" y="716.88" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pnKAW2MTkiycT-ZMdgsl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9efKHBe-v60knRHaDVvN-27" target="9efKHBe-v60knRHaDVvN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-27" value="总收入" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="310" y="796.88" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pnKAW2MTkiycT-ZMdgsl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9efKHBe-v60knRHaDVvN-28" target="9efKHBe-v60knRHaDVvN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-28" value="材料费" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="390" y="796.88" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pnKAW2MTkiycT-ZMdgsl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9efKHBe-v60knRHaDVvN-29" target="9efKHBe-v60knRHaDVvN-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-29" value="工资" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="470" y="796.88" width="40" height="40" as="geometry" />
