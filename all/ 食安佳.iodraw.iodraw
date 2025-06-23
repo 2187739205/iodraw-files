@@ -283,8 +283,8 @@
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-22" value="绑定教工号，姓名" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1ZWvzMkq_fcaTGg2btZn-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="575" y="1038" width="50" height="30" as="geometry" />
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-27" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
