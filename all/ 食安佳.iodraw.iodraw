@@ -217,16 +217,11 @@
         <mxCell id="B4V9LgvyUTULpbr_GXXk-1" value="健康证" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1400" y="680" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pnKAW2MTkiycT-ZMdgsl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="B4V9LgvyUTULpbr_GXXk-2" target="Mvkhrwdvp7kNJv5P67GJ-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1020" y="660" />
-              <mxPoint x="-910" y="660" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="B4V9LgvyUTULpbr_GXXk-2" target="Mvkhrwdvp7kNJv5P67GJ-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B4V9LgvyUTULpbr_GXXk-2" value="许可证" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-960" y="676.88" width="40" height="40" as="geometry" />
+          <mxGeometry x="-980" y="680" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pnKAW2MTkiycT-ZMdgsl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="B4V9LgvyUTULpbr_GXXk-3" target="Iaa7MuNyZsSsIzKxsuXt-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -249,7 +244,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UIWvMOv2H7rhN5vuDcBQ-1" value="加盟证书" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-840" y="676.88" width="40" height="40" as="geometry" />
+          <mxGeometry x="-860" y="680" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UIWvMOv2H7rhN5vuDcBQ-3" value="档案" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-145" y="600" width="40" height="40" as="geometry" />
