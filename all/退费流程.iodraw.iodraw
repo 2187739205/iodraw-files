@@ -19,8 +19,11 @@
         <mxCell id="PCTH6OOwC4PMobSWw9dg-3" value="退费（投诉）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PCTH6OOwC4PMobSWw9dg-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PCTH6OOwC4PMobSWw9dg-4" value="用户提交" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCTH6OOwC4PMobSWw9dg-5" value="经理审核" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
