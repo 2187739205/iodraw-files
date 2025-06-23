@@ -263,6 +263,21 @@
         <mxCell id="UIWvMOv2H7rhN5vuDcBQ-3" value="档案" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-350" y="600" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-3" value="教师" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-4" value="点餐" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="610" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-5" value="评价" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="610" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-6" value="投诉" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="610" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-7" value="档案" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="610" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
