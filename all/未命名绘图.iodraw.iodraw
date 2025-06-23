@@ -53,10 +53,10 @@
           <mxGeometry x="310" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-17" value="相关资质" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-18" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
