@@ -16,19 +16,19 @@
         <mxCell id="2W1bSncU3uF4A7FkrPvw-5" value="订单信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nRllY_DhocYSXPupIE55-1" value="商品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nRllY_DhocYSXPupIE55-1" value="商品" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nRllY_DhocYSXPupIE55-2" value="商品上架/下架" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nRllY_DhocYSXPupIE55-2" value="商品上架/下架" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nRllY_DhocYSXPupIE55-3" value="商品价格" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nRllY_DhocYSXPupIE55-3" value="商品价格" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nRllY_DhocYSXPupIE55-4" value="商品库存" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nRllY_DhocYSXPupIE55-4" value="商品库存" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nRllY_DhocYSXPupIE55-5" value="商品活动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nRllY_DhocYSXPupIE55-5" value="商品活动&lt;div&gt;(折扣/赠送/套餐)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
