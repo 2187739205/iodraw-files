@@ -76,8 +76,14 @@
         <mxCell id="0r8-MAXX3s_39sxS0DT3-23" value="日营收" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="840" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0r8-MAXX3s_39sxS0DT3-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0r8-MAXX3s_39sxS0DT3-25" target="0r8-MAXX3s_39sxS0DT3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-25" value="月营收" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="840" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0r8-MAXX3s_39sxS0DT3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0r8-MAXX3s_39sxS0DT3-27" target="0r8-MAXX3s_39sxS0DT3-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-27" value="毛利润" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="840" width="40" height="40" as="geometry" />
@@ -87,6 +93,9 @@
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-29" value="店铺开关&lt;div&gt;(同步学生点餐前台)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0r8-MAXX3s_39sxS0DT3-33" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
