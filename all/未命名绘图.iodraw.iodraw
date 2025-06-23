@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0r8-MAXX3s_39sxS0DT3-2" value="摊位管理（商家端）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="120" width="200" height="80" as="geometry" />
+          <mxGeometry x="290" y="120" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0r8-MAXX3s_39sxS0DT3-3" target="0r8-MAXX3s_39sxS0DT3-4">
           <mxGeometry relative="1" as="geometry" />
@@ -16,7 +16,7 @@
         <mxCell id="0r8-MAXX3s_39sxS0DT3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0r8-MAXX3s_39sxS0DT3-3" target="0r8-MAXX3s_39sxS0DT3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0r8-MAXX3s_39sxS0DT3-3" value="资质提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0r8-MAXX3s_39sxS0DT3-3" value="店铺开设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-4" value="许可证" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
