@@ -320,9 +320,6 @@
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-41" value="用餐记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="480" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1ZWvzMkq_fcaTGg2btZn-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.092;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mvkhrwdvp7kNJv5P67GJ-14" target="1ZWvzMkq_fcaTGg2btZn-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
