@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2W1bSncU3uF4A7FkrPvw-1" value="接单" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2W1bSncU3uF4A7FkrPvw-2" value="顾客点餐" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2W1bSncU3uF4A7FkrPvw-3" value="菜品审核" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2W1bSncU3uF4A7FkrPvw-5" value="订单信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nRllY_DhocYSXPupIE55-1" value="商品" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="20" width="120" height="60" as="geometry" />
@@ -43,7 +43,7 @@
         <mxCell id="T3ctY_h0ZlKOY7f0YbfM-4" value="月营收" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="715" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T3ctY_h0ZlKOY7f0YbfM-5" value="菜品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T3ctY_h0ZlKOY7f0YbfM-5" value="菜品分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T3ctY_h0ZlKOY7f0YbfM-6" value="菜品分类&lt;div&gt;（减脂/普通/油炸等）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
