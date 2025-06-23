@@ -66,7 +66,7 @@
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-19" value="商品" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-850" y="480" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvkhrwdvp7kNJv5P67GJ-20" value="杂物" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="Mvkhrwdvp7kNJv5P67GJ-20" value="杂务" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-770" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.013;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mvkhrwdvp7kNJv5P67GJ-13" target="Mvkhrwdvp7kNJv5P67GJ-4" edge="1">
