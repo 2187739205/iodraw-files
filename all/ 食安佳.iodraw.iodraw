@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-12" value="采购员" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="720" width="40" height="40" as="geometry" />
+          <mxGeometry x="1180" y="710" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pnKAW2MTkiycT-ZMdgsl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mvkhrwdvp7kNJv5P67GJ-13" target="Mvkhrwdvp7kNJv5P67GJ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -158,31 +158,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-55" value="采购清单" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="800" width="40" height="40" as="geometry" />
+          <mxGeometry x="1060" y="790" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pnKAW2MTkiycT-ZMdgsl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9efKHBe-v60knRHaDVvN-56" target="Mvkhrwdvp7kNJv5P67GJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-56" value="采购费用" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="800" width="40" height="40" as="geometry" />
+          <mxGeometry x="1140" y="790" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pnKAW2MTkiycT-ZMdgsl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9efKHBe-v60knRHaDVvN-57" target="Mvkhrwdvp7kNJv5P67GJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-57" value="供应商管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="800" width="40" height="40" as="geometry" />
+          <mxGeometry x="1220" y="790" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pnKAW2MTkiycT-ZMdgsl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="9efKHBe-v60knRHaDVvN-58" target="Mvkhrwdvp7kNJv5P67GJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-58" value="采购记录" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="800" width="40" height="40" as="geometry" />
+          <mxGeometry x="1300" y="790" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pnKAW2MTkiycT-ZMdgsl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="9efKHBe-v60knRHaDVvN-59" target="Mvkhrwdvp7kNJv5P67GJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-59" value="采购请求&lt;div&gt;（对象财务）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="800" width="80" height="80" as="geometry" />
+          <mxGeometry x="1380" y="790" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pnKAW2MTkiycT-ZMdgsl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9efKHBe-v60knRHaDVvN-60" target="9efKHBe-v60knRHaDVvN-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -299,9 +299,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1015" y="720" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1015" y="720" />
-              <mxPoint x="1080" y="720" />
-              <mxPoint x="1080" y="394" />
+              <mxPoint x="1050" y="720" />
+              <mxPoint x="1050" y="394" />
             </Array>
           </mxGeometry>
         </mxCell>
