@@ -29,7 +29,7 @@
           <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eh1lFxQPC0usbiXKppLU-14" value="商家总租金" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eh1lFxQPC0usbiXKppLU-15" value="商家总利润" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
@@ -37,7 +37,7 @@
         <mxCell id="eh1lFxQPC0usbiXKppLU-16" value="食堂总成本&lt;div&gt;(电费/等杂费)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eh1lFxQPC0usbiXKppLU-17" value="食堂" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eh1lFxQPC0usbiXKppLU-17" value="食堂总利润" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
