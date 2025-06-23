@@ -73,6 +73,9 @@
         <mxCell id="LvKT1-6IV0--dHwLiatt-7" value="星级评分" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LvKT1-6IV0--dHwLiatt-8" value="评论（图片）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
