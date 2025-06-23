@@ -17,7 +17,7 @@
           <mxGeometry x="600" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nRllY_DhocYSXPupIE55-1" value="商品" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nRllY_DhocYSXPupIE55-2" value="商品上架/下架" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
@@ -49,7 +49,7 @@
         <mxCell id="T3ctY_h0ZlKOY7f0YbfM-6" value="菜品分类&lt;div&gt;（减脂/增肌）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5AZHiBzRlbMSoQLUq0SZ-1" value="菜品推荐&lt;div&gt;（输入体重和身高推荐菜品）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5AZHiBzRlbMSoQLUq0SZ-1" value="菜品推荐(j)&lt;div&gt;（输入体重和身高推荐菜品）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
