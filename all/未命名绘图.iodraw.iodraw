@@ -25,6 +25,9 @@
         <mxCell id="r-rklgb2S0UqFiX3bxDm-10" value="涉及金额" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r-rklgb2S0UqFiX3bxDm-12" value="投诉反馈" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
