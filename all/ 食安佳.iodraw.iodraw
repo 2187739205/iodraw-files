@@ -103,6 +103,9 @@
         <mxCell id="9efKHBe-v60knRHaDVvN-21" value="投诉处理" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="675" y="540" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9efKHBe-v60knRHaDVvN-22" target="Mvkhrwdvp7kNJv5P67GJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-22" value="退费审核" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="595" y="540" width="40" height="40" as="geometry" />
         </mxCell>
