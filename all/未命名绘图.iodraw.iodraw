@@ -49,7 +49,7 @@
           <mxGeometry x="-400" y="400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-14" value="学生" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="400" width="40" height="40" as="geometry" />
+          <mxGeometry x="-80" y="400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-15" value="点餐" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-160" y="480" width="40" height="40" as="geometry" />
@@ -68,6 +68,12 @@
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-20" value="杂物" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-320" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mvkhrwdvp7kNJv5P67GJ-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-230" y="480" as="sourcePoint" />
+            <mxPoint x="-180" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
