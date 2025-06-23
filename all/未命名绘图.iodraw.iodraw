@@ -19,8 +19,11 @@
         <mxCell id="r-rklgb2S0UqFiX3bxDm-8" value="投诉类别" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r-rklgb2S0UqFiX3bxDm-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="r-rklgb2S0UqFiX3bxDm-9" value="诉求" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-rklgb2S0UqFiX3bxDm-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
