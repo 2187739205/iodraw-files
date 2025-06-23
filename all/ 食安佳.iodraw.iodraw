@@ -44,7 +44,7 @@
           <mxGeometry x="1360" y="720" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-13" value="商贩" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="-680" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-14" value="学生" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-200" y="480" width="40" height="40" as="geometry" />
@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iaa7MuNyZsSsIzKxsuXt-4" value="人员管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="560" width="40" height="40" as="geometry" />
+          <mxGeometry x="-800" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Iaa7MuNyZsSsIzKxsuXt-5" value="前台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="560" width="40" height="40" as="geometry" />
