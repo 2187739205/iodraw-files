@@ -10,8 +10,11 @@
         <mxCell id="2W1bSncU3uF4A7FkrPvw-2" value="菜品提交" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2W1bSncU3uF4A7FkrPvw-3" value="菜品核验" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2W1bSncU3uF4A7FkrPvw-3" value="菜品审核" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2W1bSncU3uF4A7FkrPvw-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
