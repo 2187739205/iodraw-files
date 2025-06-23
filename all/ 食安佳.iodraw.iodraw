@@ -69,13 +69,16 @@
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-20" value="杂物" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-320" y="480" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvkhrwdvp7kNJv5P67GJ-21" value="s" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="9efKHBe-v60knRHaDVvN-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.013;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mvkhrwdvp7kNJv5P67GJ-13" target="Mvkhrwdvp7kNJv5P67GJ-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-230" y="480" as="sourcePoint" />
-            <mxPoint x="-180" y="430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-200" y="450" />
-            </Array>
+            <mxPoint x="-230" y="410" as="sourcePoint" />
+            <mxPoint x="-180" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9efKHBe-v60knRHaDVvN-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1.03;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Mvkhrwdvp7kNJv5P67GJ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-230" y="410" as="sourcePoint" />
+            <mxPoint x="-180" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
