@@ -63,6 +63,9 @@
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-18" value="接单" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-400" y="480" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Mvkhrwdvp7kNJv5P67GJ-19" value="商品" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
