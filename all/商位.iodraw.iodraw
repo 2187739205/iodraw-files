@@ -52,7 +52,7 @@
         <mxCell id="9k31u0zGbz7hzmWEvYQy-2" value="摊位名" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="557" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9k31u0zGbz7hzmWEvYQy-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9k31u0zGbz7hzmWEvYQy-3" value="店铺位置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
