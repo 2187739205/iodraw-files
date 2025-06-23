@@ -49,9 +49,6 @@
         <mxCell id="T3ctY_h0ZlKOY7f0YbfM-6" value="菜品分类&lt;div&gt;（减脂/普通/油炸等）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T3ctY_h0ZlKOY7f0YbfM-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="630" width="180" height="120" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
