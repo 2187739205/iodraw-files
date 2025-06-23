@@ -337,10 +337,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-61" value="家长/学生可选是否让看" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="790" width="140" height="40" as="geometry" />
+          <mxGeometry x="-360" y="800" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1ZWvzMkq_fcaTGg2btZn-64" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="840" width="40" height="40" as="geometry" />
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-64" value="用餐记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="880" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
