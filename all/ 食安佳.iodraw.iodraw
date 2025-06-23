@@ -196,7 +196,7 @@
         <mxCell id="Iaa7MuNyZsSsIzKxsuXt-4" value="人员管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1280" y="600" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Iaa7MuNyZsSsIzKxsuXt-5" value="前台" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Iaa7MuNyZsSsIzKxsuXt-5" value="首页" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="600" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Iaa7MuNyZsSsIzKxsuXt-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Iaa7MuNyZsSsIzKxsuXt-4" target="Mvkhrwdvp7kNJv5P67GJ-13" edge="1">
@@ -283,8 +283,14 @@
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-22" value="绑定教工号，姓名" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="400" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ZWvzMkq_fcaTGg2btZn-27" target="9efKHBe-v60knRHaDVvN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-27" value="摊位费收取" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="800" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
