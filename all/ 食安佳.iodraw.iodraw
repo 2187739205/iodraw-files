@@ -93,8 +93,8 @@
             <mxPoint x="370" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="310" y="350" width="80" height="80" as="geometry" />
+        <mxCell id="9efKHBe-v60knRHaDVvN-8" value="日营收" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
