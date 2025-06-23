@@ -51,70 +51,70 @@
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0r8-MAXX3s_39sxS0DT3-17" target="0r8-MAXX3s_39sxS0DT3-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="660" as="targetPoint" />
+            <mxPoint x="320" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-17" value="相关资质&lt;div&gt;(同步前台店主设置)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0r8-MAXX3s_39sxS0DT3-18" target="0r8-MAXX3s_39sxS0DT3-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="670" as="targetPoint" />
+            <mxPoint x="380" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-18" value="店铺人数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0r8-MAXX3s_39sxS0DT3-19" target="0r8-MAXX3s_39sxS0DT3-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-19" value="店铺位置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-20" value="店铺状态&lt;div&gt;(店铺是否开关)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-21" value="店铺删除" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-22" value="店铺营收情况" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0r8-MAXX3s_39sxS0DT3-23" target="0r8-MAXX3s_39sxS0DT3-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-23" value="日营收" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="950" width="40" height="40" as="geometry" />
+          <mxGeometry x="440" y="1000" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0r8-MAXX3s_39sxS0DT3-25" target="0r8-MAXX3s_39sxS0DT3-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-25" value="月营收" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="950" width="40" height="40" as="geometry" />
+          <mxGeometry x="520" y="1000" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0r8-MAXX3s_39sxS0DT3-27" target="0r8-MAXX3s_39sxS0DT3-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-27" value="毛利润" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="950" width="40" height="40" as="geometry" />
+          <mxGeometry x="600" y="1000" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-28" value="运营时间(商铺可自行设置，同步)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="990" width="80" height="80" as="geometry" />
+          <mxGeometry x="440" y="1040" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-29" value="店铺开关&lt;div&gt;(同步学生点餐前台)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="990" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="1040" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-33" value="月租金" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-41" value="摊位详情" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0r8-MAXX3s_39sxS0DT3-43" target="0r8-MAXX3s_39sxS0DT3-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-43" value="摊位列表/总数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
