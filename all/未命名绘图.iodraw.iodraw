@@ -57,8 +57,8 @@
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-16" value="评价" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-40" y="480" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mvkhrwdvp7kNJv5P67GJ-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry y="480" width="80" height="80" as="geometry" />
+        <mxCell id="Mvkhrwdvp7kNJv5P67GJ-17" value="投诉" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry y="480" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
