@@ -32,19 +32,19 @@
           <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T3ctY_h0ZlKOY7f0YbfM-1" value="杂物" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T3ctY_h0ZlKOY7f0YbfM-2" value="营业时间" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T3ctY_h0ZlKOY7f0YbfM-3" value="日营收" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T3ctY_h0ZlKOY7f0YbfM-4" value="月营收" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T3ctY_h0ZlKOY7f0YbfM-5" value="菜品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T3ctY_h0ZlKOY7f0YbfM-6" value="菜品分类&lt;div&gt;（减脂/普通/油炸等）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="120" width="120" height="60" as="geometry" />
