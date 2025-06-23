@@ -7,6 +7,12 @@
         <mxCell id="eh1lFxQPC0usbiXKppLU-1" value="财务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="eh1lFxQPC0usbiXKppLU-4" value="商家" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eh1lFxQPC0usbiXKppLU-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
