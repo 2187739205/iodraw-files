@@ -13,6 +13,9 @@
         <mxCell id="2W1bSncU3uF4A7FkrPvw-3" value="菜品审核" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2W1bSncU3uF4A7FkrPvw-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
