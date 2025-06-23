@@ -40,10 +40,10 @@
           <mxGeometry x="920" y="400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-11" value="仓库管理员" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="280" y="400" width="40" height="40" as="geometry" />
+          <mxGeometry x="80" y="400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-12" value="采购员" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="400" width="40" height="40" as="geometry" />
+          <mxGeometry x="-200" y="600" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-13" value="商贩" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-850" y="400" width="40" height="40" as="geometry" />
@@ -105,8 +105,8 @@
         <mxCell id="9efKHBe-v60knRHaDVvN-22" value="退费审核" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="680" y="480" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="40" height="40" as="geometry" />
+        <mxCell id="9efKHBe-v60knRHaDVvN-24" value="财务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
