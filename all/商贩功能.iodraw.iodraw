@@ -31,6 +31,9 @@
         <mxCell id="nRllY_DhocYSXPupIE55-5" value="商品活动&lt;div&gt;(折扣/赠送/套餐)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="T3ctY_h0ZlKOY7f0YbfM-1" value="e" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
