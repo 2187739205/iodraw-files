@@ -290,7 +290,7 @@
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-20" value="绑定学号" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="400" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1ZWvzMkq_fcaTGg2btZn-22" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-22" value="绑定教工号" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="400" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
