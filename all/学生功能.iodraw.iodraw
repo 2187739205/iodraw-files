@@ -10,8 +10,8 @@
         <mxCell id="uQogH1XTJ0usF615PPvp-4" value="菜品推荐&lt;div&gt;(输入体重，身高计算BMI推荐餐品)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uQogH1XTJ0usF615PPvp-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="uQogH1XTJ0usF615PPvp-5" value="饮食分析对话框&lt;div&gt;(结合AI)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="120" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
