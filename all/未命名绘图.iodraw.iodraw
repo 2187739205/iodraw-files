@@ -116,6 +116,9 @@
         <mxCell id="0r8-MAXX3s_39sxS0DT3-43" value="摊位列表/总数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="550" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0r8-MAXX3s_39sxS0DT3-45" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
