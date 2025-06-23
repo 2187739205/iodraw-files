@@ -82,7 +82,7 @@
         <mxCell id="0r8-MAXX3s_39sxS0DT3-28" value="运营时间(商铺可自行设置，同步)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="880" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0r8-MAXX3s_39sxS0DT3-29" value="店铺" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0r8-MAXX3s_39sxS0DT3-29" value="店铺开关&lt;div&gt;(同步学生点餐前台)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="880" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
