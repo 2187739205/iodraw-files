@@ -235,13 +235,8 @@
         <mxCell id="B4V9LgvyUTULpbr_GXXk-4" value="薪资" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1160" y="680" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UIWvMOv2H7rhN5vuDcBQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="UIWvMOv2H7rhN5vuDcBQ-1" target="Mvkhrwdvp7kNJv5P67GJ-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-820" y="657" />
-              <mxPoint x="-890" y="657" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIWvMOv2H7rhN5vuDcBQ-1" target="Mvkhrwdvp7kNJv5P67GJ-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UIWvMOv2H7rhN5vuDcBQ-1" value="加盟证书" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-860" y="680" width="40" height="40" as="geometry" />
@@ -287,6 +282,9 @@
         </mxCell>
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-22" value="绑定教工号，姓名" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1038" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
