@@ -174,9 +174,6 @@
         <mxCell id="9efKHBe-v60knRHaDVvN-60" value="处理请求" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="560" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MVukhIqX6smtAc_eLAW7-1" value="外卖" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="480" width="40" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
