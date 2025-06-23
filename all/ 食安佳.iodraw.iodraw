@@ -342,6 +342,9 @@
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-64" value="用餐记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="880" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-65" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="880" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
