@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-3" value="员工管理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="560" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="640" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-5" value="月营收" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="800" y="480" width="40" height="40" as="geometry" />
@@ -94,10 +94,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-8" value="日营收" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="640" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="720" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-20" value="摊位管理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="560" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9efKHBe-v60knRHaDVvN-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
