@@ -43,7 +43,7 @@
         <mxCell id="T3ctY_h0ZlKOY7f0YbfM-4" value="月营收" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T3ctY_h0ZlKOY7f0YbfM-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T3ctY_h0ZlKOY7f0YbfM-5" value="菜品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
