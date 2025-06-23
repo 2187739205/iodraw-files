@@ -23,19 +23,19 @@
           <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eh1lFxQPC0usbiXKppLU-12" value="商家总营业额" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eh1lFxQPC0usbiXKppLU-13" value="商家成本&lt;div&gt;(菜/调料/租金等)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eh1lFxQPC0usbiXKppLU-14" value="商家总租金" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eh1lFxQPC0usbiXKppLU-15" value="商家总利润" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eh1lFxQPC0usbiXKppLU-16" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
