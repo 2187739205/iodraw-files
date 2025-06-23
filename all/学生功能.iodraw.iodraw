@@ -7,6 +7,9 @@
         <mxCell id="uQogH1XTJ0usF615PPvp-1" value="点餐" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Oy0OJNtG0J0GxCv-Ui-3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="uQogH1XTJ0usF615PPvp-4" target="uQogH1XTJ0usF615PPvp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uQogH1XTJ0usF615PPvp-4" value="菜品推荐&lt;div&gt;(输入体重，身高计算BMI推荐餐品)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="120" width="120" height="80" as="geometry" />
         </mxCell>
@@ -42,6 +45,9 @@
         </mxCell>
         <mxCell id="Oy0OJNtG0J0GxCv-Ui-3-9" value="消费能力" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oy0OJNtG0J0GxCv-Ui-3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oy0OJNtG0J0GxCv-Ui-3-11" target="Oy0OJNtG0J0GxCv-Ui-3-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Oy0OJNtG0J0GxCv-Ui-3-11" value="口味爱好&lt;div&gt;（肉类，菜类，油烟类型）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="400" width="120" height="60" as="geometry" />
