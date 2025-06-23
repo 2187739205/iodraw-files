@@ -38,10 +38,10 @@
           <mxGeometry x="320" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-11" value="仓库管理员" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="230" y="860" width="40" height="40" as="geometry" />
+          <mxGeometry x="440" y="723.12" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-12" value="采购员" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="643.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="880" y="723.12" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-13" value="商贩" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-520" y="480" width="40" height="40" as="geometry" />
@@ -125,28 +125,28 @@
           <mxGeometry x="110" y="803.12" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-41" value="沟通请求&lt;div&gt;（对象财务，商贩，经理）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="923.12" width="80" height="80" as="geometry" />
+          <mxGeometry x="320" y="786.24" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-42" value="库存管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="923.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="560" y="786.24" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-53" value="仓库设施管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="923.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="440" y="786.24" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-55" value="采购清单" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="723.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="760" y="803.12" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-56" value="采购费用" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="723.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="840" y="803.12" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-57" value="供应商管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="723.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="920" y="803.12" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-58" value="采购记录" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="723.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="1000" y="803.12" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-59" value="采购请求&lt;div&gt;（对象财务）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="723.12" width="80" height="80" as="geometry" />
+          <mxGeometry x="1080" y="803.12" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-60" value="处理请求" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-290" y="803.12" width="40" height="40" as="geometry" />
