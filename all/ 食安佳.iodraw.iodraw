@@ -34,7 +34,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1ZWvzMkq_fcaTGg2btZn-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mvkhrwdvp7kNJv5P67GJ-9" target="Mvkhrwdvp7kNJv5P67GJ-6">
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mvkhrwdvp7kNJv5P67GJ-9" target="1ZWvzMkq_fcaTGg2btZn-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-9" value="经理" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -330,6 +330,9 @@
         </mxCell>
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-50" value="AI根据你本日摄入食物进行分析并给出建议" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="713.76" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-59" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
+          <mxGeometry x="820" y="175" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
