@@ -40,8 +40,11 @@
         <mxCell id="r-rklgb2S0UqFiX3bxDm-17" value="店铺位置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r-rklgb2S0UqFiX3bxDm-18" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r-rklgb2S0UqFiX3bxDm-18" value="反馈信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-rklgb2S0UqFiX3bxDm-19" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
