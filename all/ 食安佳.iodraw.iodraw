@@ -169,7 +169,7 @@
         <mxCell id="9efKHBe-v60knRHaDVvN-58" value="采购记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="760" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-59" value="采购请求" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9efKHBe-v60knRHaDVvN-59" value="采购请求&lt;div&gt;（对象财务）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="760" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
