@@ -82,8 +82,8 @@
         <mxCell id="LvKT1-6IV0--dHwLiatt-8" value="评论（图片）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LvKT1-6IV0--dHwLiatt-11" value="学生端和家长端的互动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="LvKT1-6IV0--dHwLiatt-11" value="学生端和家长端的互动，家长添加学生学号，学生同意申请后家生绑定" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="520" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
