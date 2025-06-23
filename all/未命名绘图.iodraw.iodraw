@@ -70,8 +70,11 @@
         <mxCell id="0r8-MAXX3s_39sxS0DT3-22" value="店铺营收情况" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0r8-MAXX3s_39sxS0DT3-23" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0r8-MAXX3s_39sxS0DT3-23" value="日营收" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="840" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0r8-MAXX3s_39sxS0DT3-25" value="日营收" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="850" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
