@@ -16,8 +16,8 @@
         <mxCell id="eh1lFxQPC0usbiXKppLU-7" value="商家利润" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eh1lFxQPC0usbiXKppLU-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="eh1lFxQPC0usbiXKppLU-8" value="商家成本" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
