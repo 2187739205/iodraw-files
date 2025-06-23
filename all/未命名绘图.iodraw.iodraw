@@ -37,8 +37,8 @@
             <mxPoint x="430" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0r8-MAXX3s_39sxS0DT3-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="0r8-MAXX3s_39sxS0DT3-12" value="店铺初始资金投入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
