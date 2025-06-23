@@ -40,7 +40,7 @@
           <mxGeometry x="640" y="400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-11" value="仓库管理员" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="400" y="400" width="40" height="40" as="geometry" />
+          <mxGeometry x="560" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-12" value="采购员" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="280" y="400" width="40" height="40" as="geometry" />
@@ -96,9 +96,9 @@
         <mxCell id="9efKHBe-v60knRHaDVvN-8" value="日营收" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="640" y="480" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="9efKHBe-v60knRHaDVvN-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.151;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.611;exitY=-0.126;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9efKHBe-v60knRHaDVvN-3" target="Mvkhrwdvp7kNJv5P67GJ-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="550" as="sourcePoint" />
+            <mxPoint x="590" y="470" as="sourcePoint" />
             <mxPoint x="370" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
