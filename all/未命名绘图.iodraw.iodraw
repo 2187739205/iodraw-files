@@ -7,6 +7,9 @@
         <mxCell id="OfbI9Go4iSjXGy6cptmK-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;经理审批&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OfbI9Go4iSjXGy6cptmK-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
