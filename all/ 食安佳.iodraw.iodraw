@@ -160,8 +160,8 @@
         <mxCell id="9efKHBe-v60knRHaDVvN-55" value="采购清单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="760" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-56" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="860" width="120" height="60" as="geometry" />
+        <mxCell id="9efKHBe-v60knRHaDVvN-56" value="采购费用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="760" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
