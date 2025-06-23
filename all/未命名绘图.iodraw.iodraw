@@ -64,8 +64,11 @@
         <mxCell id="0r8-MAXX3s_39sxS0DT3-20" value="店铺状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0r8-MAXX3s_39sxS0DT3-21" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="810" width="120" height="60" as="geometry" />
+        <mxCell id="0r8-MAXX3s_39sxS0DT3-21" value="店铺删除" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0r8-MAXX3s_39sxS0DT3-22" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
