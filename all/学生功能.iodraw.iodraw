@@ -8,13 +8,13 @@
           <mxGeometry x="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uQogH1XTJ0usF615PPvp-4" value="菜品推荐&lt;div&gt;(输入体重，身高计算BMI推荐餐品)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="120" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uQogH1XTJ0usF615PPvp-5" value="饮食分析对话框&lt;div&gt;（结合AI对用餐者的要求进行分析，结合现有商品进行推荐）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="120" width="160" height="80" as="geometry" />
+          <mxGeometry x="280" y="120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_CD9x-zmH7CE157U7nmr-1" value="菜品介绍&lt;div&gt;（课选是否添加图片）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="120" width="160" height="80" as="geometry" />
+          <mxGeometry x="480" y="120" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
