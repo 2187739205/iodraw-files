@@ -73,8 +73,11 @@
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-19" value="商品" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-560" y="680" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mvkhrwdvp7kNJv5P67GJ-20" target="Mvkhrwdvp7kNJv5P67GJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-20" value="后台" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-920" y="600" width="40" height="40" as="geometry" />
+          <mxGeometry x="-980" y="600" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-5" value="月营收" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="915" y="520" width="40" height="40" as="geometry" />
@@ -215,7 +218,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B4V9LgvyUTULpbr_GXXk-2" value="许可证" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-980" y="680" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1040" y="680" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pnKAW2MTkiycT-ZMdgsl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="B4V9LgvyUTULpbr_GXXk-3" target="Iaa7MuNyZsSsIzKxsuXt-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -233,7 +236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UIWvMOv2H7rhN5vuDcBQ-1" value="加盟证书" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-860" y="680" width="40" height="40" as="geometry" />
+          <mxGeometry x="-920" y="680" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UIWvMOv2H7rhN5vuDcBQ-3" value="档案" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-145" y="600" width="40" height="40" as="geometry" />
