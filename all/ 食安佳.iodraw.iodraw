@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-9" value="经理" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="805" y="440" width="40" height="40" as="geometry" />
+          <mxGeometry x="795" y="440" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-11" value="仓库管理员" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1165" y="720" width="40" height="40" as="geometry" />
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-3" value="员工管理" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="280" width="40" height="40" as="geometry" />
+          <mxGeometry x="1710" y="220" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-5" value="月营收" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="915" y="540" width="40" height="40" as="geometry" />
@@ -176,7 +176,6 @@
             <mxPoint x="1230" y="570" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1260" y="470" />
-              <mxPoint x="980" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
