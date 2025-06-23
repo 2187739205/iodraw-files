@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-9" value="经理" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="630" y="723.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="320" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-11" value="仓库管理员" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="230" y="843.12" width="40" height="40" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="1140" y="190" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-5" value="月营收" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="750" y="803.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="440" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.416;exitY=-0.115;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Mvkhrwdvp7kNJv5P67GJ-9" target="Mvkhrwdvp7kNJv5P67GJ-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -92,16 +92,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-8" value="日营收" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="670" y="803.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="360" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-20" value="摊位管理" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="590" y="803.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="280" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-21" value="投诉处理" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="510" y="803.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="200" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-22" value="退费审核" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="430" y="803.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="120" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-24" value="财务" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-50" y="723.12" width="40" height="40" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="30" y="803.12" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-34" value="摊位审核" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="830" y="803.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="520" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-37" value="占比" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="803.12" width="40" height="40" as="geometry" />
@@ -132,15 +132,6 @@
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-53" value="仓库设施管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="923.12" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-54" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.981;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Mvkhrwdvp7kNJv5P67GJ-12" target="Mvkhrwdvp7kNJv5P67GJ-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="440" as="sourcePoint" />
-            <mxPoint x="760" y="390" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="930" y="290" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-55" value="采购清单" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="723.12" width="40" height="40" as="geometry" />
