@@ -138,8 +138,8 @@
             <mxPoint x="700" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-41" value="沟通请求" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="680" width="40" height="40" as="geometry" />
+        <mxCell id="9efKHBe-v60knRHaDVvN-41" value="沟通请求&lt;div&gt;（对象财务，商贩，经理）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-42" value="库存管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="680" width="40" height="40" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry x="1080" y="760" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-59" value="采购请求&lt;div&gt;（对象财务）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="760" width="80" height="70" as="geometry" />
+          <mxGeometry x="1160" y="760" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
