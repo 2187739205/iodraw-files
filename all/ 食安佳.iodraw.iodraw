@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-9" value="经理" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="400" y="400" width="40" height="40" as="geometry" />
+          <mxGeometry x="520" y="400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-11" value="仓库管理员" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="440" y="480" width="40" height="40" as="geometry" />
@@ -85,7 +85,17 @@
           <mxGeometry x="280" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-5" value="月营收" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="520" y="480" width="40" height="40" as="geometry" />
+          <mxGeometry x="640" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9efKHBe-v60knRHaDVvN-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="410" as="sourcePoint" />
+            <mxPoint x="370" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="410" />
+              <mxPoint x="320" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
