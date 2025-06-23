@@ -73,9 +73,6 @@
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-19" value="商品" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-560" y="680" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pnKAW2MTkiycT-ZMdgsl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Mvkhrwdvp7kNJv5P67GJ-20" target="Mvkhrwdvp7kNJv5P67GJ-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-20" value="后台" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-920" y="600" width="40" height="40" as="geometry" />
         </mxCell>
@@ -288,6 +285,9 @@
         </mxCell>
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-27" value="摊位费收取" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="800" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZWvzMkq_fcaTGg2btZn-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ZWvzMkq_fcaTGg2btZn-31" target="Iaa7MuNyZsSsIzKxsuXt-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1ZWvzMkq_fcaTGg2btZn-31" value="资质展示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="676.88" width="40" height="40" as="geometry" />
