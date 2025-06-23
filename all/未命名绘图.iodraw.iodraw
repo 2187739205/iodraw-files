@@ -49,12 +49,6 @@
             <mxPoint x="390" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0r8-MAXX3s_39sxS0DT3-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0r8-MAXX3s_39sxS0DT3-16" target="0r8-MAXX3s_39sxS0DT3-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0r8-MAXX3s_39sxS0DT3-16" value="摊位详情" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="0r8-MAXX3s_39sxS0DT3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0r8-MAXX3s_39sxS0DT3-17" target="0r8-MAXX3s_39sxS0DT3-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="660" as="targetPoint" />
