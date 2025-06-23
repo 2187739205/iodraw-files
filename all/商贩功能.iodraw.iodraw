@@ -34,8 +34,11 @@
         <mxCell id="T3ctY_h0ZlKOY7f0YbfM-1" value="杂物" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T3ctY_h0ZlKOY7f0YbfM-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="T3ctY_h0ZlKOY7f0YbfM-2" value="营业时间" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T3ctY_h0ZlKOY7f0YbfM-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
