@@ -96,29 +96,6 @@
         <mxCell id="9efKHBe-v60knRHaDVvN-8" value="日营收" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="560" y="480" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-9" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="320" y="650" width="280" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="9efKHBe-v60knRHaDVvN-9" source="9efKHBe-v60knRHaDVvN-12" target="9efKHBe-v60knRHaDVvN-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="9efKHBe-v60knRHaDVvN-9" source="9efKHBe-v60knRHaDVvN-12" target="9efKHBe-v60knRHaDVvN-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="Organization" treeRoot="1" id="9efKHBe-v60knRHaDVvN-12">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9efKHBe-v60knRHaDVvN-9">
-            <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="9efKHBe-v60knRHaDVvN-13" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9efKHBe-v60knRHaDVvN-9">
-          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-14" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="9efKHBe-v60knRHaDVvN-9">
-          <mxGeometry x="160" y="140" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
