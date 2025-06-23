@@ -138,8 +138,8 @@
             <mxPoint x="700" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-41" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="9efKHBe-v60knRHaDVvN-41" value="采购请求" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="680" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
