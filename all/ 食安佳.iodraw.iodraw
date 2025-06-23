@@ -109,7 +109,7 @@
           <mxGeometry x="240" y="520" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-27" value="总收入" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="120" y="600" width="40" height="40" as="geometry" />
+          <mxGeometry y="600" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-28" value="材料费" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="200" y="600" width="40" height="40" as="geometry" />
