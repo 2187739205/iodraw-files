@@ -13,7 +13,7 @@
         <mxCell id="uQogH1XTJ0usF615PPvp-5" value="饮食分析对话框&lt;div&gt;（结合AI对用餐者的要求进行分析，结合现有商品进行推荐）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uQogH1XTJ0usF615PPvp-6" value="菜品展示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uQogH1XTJ0usF615PPvp-6" value="菜品展示and价格" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
