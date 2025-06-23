@@ -120,8 +120,8 @@
         <mxCell id="9efKHBe-v60knRHaDVvN-30" value="毛利润" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="560" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9efKHBe-v60knRHaDVvN-34" value="摊位" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="280" y="790" width="40" height="40" as="geometry" />
+        <mxCell id="9efKHBe-v60knRHaDVvN-34" value="摊位审核" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-37" value="占比" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="560" width="40" height="40" as="geometry" />
