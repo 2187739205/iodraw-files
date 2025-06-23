@@ -38,7 +38,7 @@
           <mxGeometry x="470" y="460" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-11" value="仓库管理员" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="840" y="703.12" width="40" height="40" as="geometry" />
+          <mxGeometry x="840" y="720" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mvkhrwdvp7kNJv5P67GJ-12" value="采购员" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1280" y="720" width="40" height="40" as="geometry" />
@@ -125,13 +125,13 @@
           <mxGeometry x="310" y="800" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-41" value="沟通请求&lt;div&gt;（对象财务，商贩，经理）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="766.24" width="80" height="80" as="geometry" />
+          <mxGeometry x="720" y="783.12" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-42" value="库存管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="780" width="40" height="40" as="geometry" />
+          <mxGeometry x="960" y="796.88" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-53" value="仓库设施管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="780" width="40" height="40" as="geometry" />
+          <mxGeometry x="840" y="796.88" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9efKHBe-v60knRHaDVvN-55" value="采购清单" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="800" width="40" height="40" as="geometry" />
@@ -167,6 +167,16 @@
             <Array as="points">
               <mxPoint x="890" y="640" />
               <mxPoint x="720" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iaa7MuNyZsSsIzKxsuXt-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="620" as="sourcePoint" />
+            <mxPoint x="1230" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1230" y="620" />
+              <mxPoint x="1180" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
