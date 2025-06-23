@@ -25,6 +25,9 @@
         <mxCell id="PCTH6OOwC4PMobSWw9dg-5" value="经理审核" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PCTH6OOwC4PMobSWw9dg-6" value="摊主审核" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
