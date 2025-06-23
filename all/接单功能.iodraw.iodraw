@@ -7,7 +7,7 @@
         <mxCell id="2W1bSncU3uF4A7FkrPvw-1" value="接单" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2W1bSncU3uF4A7FkrPvw-2" value="菜品提交" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2W1bSncU3uF4A7FkrPvw-2" value="顾客点餐" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2W1bSncU3uF4A7FkrPvw-3" value="菜品审核" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
