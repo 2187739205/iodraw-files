@@ -191,8 +191,11 @@
             <mxPoint x="-550" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B4V9LgvyUTULpbr_GXXk-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="B4V9LgvyUTULpbr_GXXk-1" value="健康证" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="640" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B4V9LgvyUTULpbr_GXXk-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
